@@ -42,7 +42,7 @@ To run these project on the development enviroment:
 
 ## Usage 
 Screen shot 
-* ![weather-dashboard demo](./assets/images/screenshot.png)
+* ![weather-dashboard demo](./assets/images/Screenshot.png)
 
 ## Credits
 My web page is based and inspired by;
