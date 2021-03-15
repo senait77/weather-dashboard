@@ -1,0 +1,85 @@
+
+*{
+    box-sizing: border-box;
+    
+}
+
+body {
+    
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../images/tengyart-Z5TmoonjUzI-unsplash.jpg);
+    background-size: cover;
+    
+}
+.container {
+    background-color: rgb(153, 207, 238);
+    border: 8px solid black;
+    border-radius: 15px;
+    opacity: 0.7;
+}
+
+#current-weather {
+    border: 6px solid black;
+    border-radius: 5px;
+}
+.text {
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(7, 54, 56);
+}
+.text1 {
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(240, 248, 248);
+}
+.pt-1 {
+    font-size: 25px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    color:rgb(18, 2, 87);
+}
+h3{
+    font-weight: bold;
+}
+.forecast{
+    
+    font-size: 0.9em;
+}
+span{
+    font-size: 1em;
+}
+li:hover{
+    background-color: lightslategray;
+    text-decoration: underline;
+}
+.btn {
+    background-color: rgb(18, 2, 87);
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
+.col-sm-2 {
+    background-color: rgb(18, 2, 87);
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+.current {
+    background-color: rgb(18, 2, 87);
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
