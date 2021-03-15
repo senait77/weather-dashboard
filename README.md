@@ -9,8 +9,9 @@
   
 
   Here is a link to deploy my application:
-   * Repo: 
-   * Deploy: 
+   * Repo: https://github.com/senait77/weather-dashboard
+   * Deploy: https://senait77.github.io/weather-dashboard/
+
 
 
 
