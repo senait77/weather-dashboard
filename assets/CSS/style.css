@@ -12,6 +12,14 @@ body {
     background-size: cover;
     
 }
+.jumbotron {
+    background-color: rgb(18, 2, 87);
+    color: white;
+    font-size: 15px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+}
 .container {
     background-color: rgb(153, 207, 238);
     border: 8px solid black;
